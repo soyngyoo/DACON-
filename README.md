@@ -2,10 +2,12 @@
 
 
 참여대회명 : DACON Stage1 반도체 박막 두께 분석 알고리즘 대회 
+
 2020.01.02~ 2020.02.02 23.59
+
 URL = https://newfront.dacon.io/competitions/official/235554/overview/description/
 
-1. 배경
+# 1. 배경
 
 최근 고사양 반도체 수요가 많아지면서 반도체를 수직으로 적층하는 3차원 공정이 많이 연구되고 있습니다. 반도체 박막을 수십 ~ 수백 층 쌓아 올리는 공정에서는 박막의 결함으로 인한 두께와 균일도가 저하되는 문제가 있습니다. 이는 소자 구조의 변형을 야기하며 성능 하락의 주요 요인이 됩니다. 이를 사전에 방지하기 위해서는 박막의 두께를 빠르면서도 정확히 측정하는 것이 중요합니다.
 
@@ -13,7 +15,7 @@ URL = https://newfront.dacon.io/competitions/official/235554/overview/descriptio
 
 
 
-2. 주최/주관
+# 2. 주최/주관
 
 - 주최 : DACON
 
@@ -21,7 +23,7 @@ URL = https://newfront.dacon.io/competitions/official/235554/overview/descriptio
 
 
 
-3. 참가자 대상
+# 3. 참가자 대상
 
 - 대한민국 거주 중이며 빅데이터를 활용한 알고리즘 개발 혹은 반도체에 관심을 보유한 일반인, 학생, 기업 등 누구나
 
